@@ -63,12 +63,3 @@ To analyze sales, item categories, outlet types, and customer behavior using Pow
 - **Action:** Launch win-back campaigns with loyalty points or cashback.
 - **Impact:** Revives old users and drives MoM growth.
   
-## 💼 Relevance to Meesho – Business Management Track
-
-This project mirrors real-world challenges faced in Meesho's key business verticals:
-
-- **Category Management:** Assortment planning, pricing strategy, identifying high/low performing categories
-- **User Growth:** Retention and reactivation strategies, understanding location-based trends
-- **Fulfillment & Experience:** Optimizing delivery times, outlet strategy, inventory rotation
-- **Monetization:** Boosting order size, increasing conversion rates through bundling and targeting
-
